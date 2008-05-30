@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/SMS-Send-US-Ipipi.t
+lib/SMS/Send/US/Ipipi.pm
+META.yml                                 Module meta-data (added by MakeMaker)
