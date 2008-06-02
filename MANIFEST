@@ -1,7 +1,10 @@
 Changes
-Makefile.PL
 MANIFEST
+Makefile.PL
 README
-t/SMS-Send-US-Ipipi.t
 lib/SMS/Send/US/Ipipi.pm
+t/SMS-Send-US-Ipipi.t
+t/pod-coverage.t
+t/pod.t
+
 META.yml                                 Module meta-data (added by MakeMaker)
